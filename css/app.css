@@ -1,11 +1,26 @@
+html {
+    background: url('../img/bg.jpg') no-repeat 50% 50% fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+}
+
+body{
+    width: 370px;
+    margin: auto;
+    font-weight: 300;
+}
+
+header{
+    width: 370px;
+    margin: auto;
+}
+
 .slider {
   margin-bottom: 0;
   font-size: 0px !important;
   line-height: 0px !important;
-}
-
-body {
-  font-weight: 300;
 }
 
 b {
@@ -430,7 +445,7 @@ margin-right: 20px;
 .login-img {
   height: 100%;
   width: 100%;
-  background: url('/people-blur-white.jpg');
+  /*background: url('/people-blur-white.jpg');*/
   background-size: cover;
 }
 
