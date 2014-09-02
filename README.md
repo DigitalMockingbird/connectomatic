@@ -1,3 +1,6 @@
+<h4>Summary</h4>
+<p>An ongoing project which will eventually become an Android and iOS app</p>
+
 ##Connectomatic
 
 Add intelligence to your connections. Remember who you met at events. Find that person your friend needs an intro to.
@@ -18,8 +21,6 @@ Built for Startup Weekend B2B, June 2014. Based on [Ratchet](http://goratchet.co
 * Custom tags and auto-generated tags
 
 ###Screenshots
-
-
 
 ![image](https://raw.githubusercontent.com/jennielees/connectomatic/master/screenshots/home_2.png)
 
